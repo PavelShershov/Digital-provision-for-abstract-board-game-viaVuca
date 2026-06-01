@@ -1,4 +1,4 @@
-const SCRIPT_URL = 'https://tranagor.infinityfreeapp.com/api/api.php';
+const SCRIPT_URL = 'https://viavuca-api-proxy.pavlus-uncle.workers.dev/';
 
 // https://viavuca-api-proxy.pavlus-uncle.workers.dev/=====================================================
 // ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
